@@ -1,5 +1,5 @@
-## Project 5: Essentials of Python Programming
-Project: Developing ‘Rock, Paper and Scissors’ game using Python programming
+# Project 5: Essentials of Python Programming
+## Project: Developing ‘Rock, Paper and Scissors’ game using Python programming
 About the project: The project leverages the basic concepts of Python programming such as variables, data types, loop and conditional statements to develop the game of Rock, Papers and Scissors.
 Difficulty Level: Beginner
 Tools to Use: Any Python IDE such as Jupyter Notebook, Azure Data Studio, Google Colaboratory or PyCharm. This project will guide you with working on Jupyter Notebook (Anaconda 3). Please click here and follow the link to download and install the tools.
@@ -34,7 +34,7 @@ Skills to Use (Optional):
 3.	Use isdigit() to mark the input invalid if it is a digit.
 4.	Add two more elements in the game – Lizard and Spock. The game structure should look like:
  
-Resources: 
+## Resources: 
 1.	Understanding Jupyter Notebook and its interface
 Article: How to use Jupyter Notebook – by Codecademy
 Video: Jupyter Notebook System – by Coursera
