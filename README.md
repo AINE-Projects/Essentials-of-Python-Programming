@@ -4,7 +4,7 @@
 __About the project:__ The project leverages the basic concepts of Python programming such as variables, data types, loop and conditional statements to develop the game of Rock, Papers and Scissors.
 
 __Difficulty Level: Beginner__
-Tools to Use: Any Python IDE such as Jupyter Notebook, Azure Data Studio, Google Colaboratory or PyCharm. This project will guide you with working on Jupyter Notebook (Anaconda 3). Please click here and follow the link to download and install the tools.
+Tools to Use: Any Python IDE such as Jupyter Notebook, Azure Data Studio, Google Colaboratory or PyCharm. This project will guide you with working on Jupyter Notebook (Anaconda 3).
 
 __Aim:__ 
 Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.
