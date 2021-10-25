@@ -1,10 +1,15 @@
 # Project 5: Essentials of Python Programming
 ## Project: Developing ‘Rock, Paper and Scissors’ game using Python programming
-About the project: The project leverages the basic concepts of Python programming such as variables, data types, loop and conditional statements to develop the game of Rock, Papers and Scissors.
-Difficulty Level: Beginner
+
+__About the project:__ The project leverages the basic concepts of Python programming such as variables, data types, loop and conditional statements to develop the game of Rock, Papers and Scissors.
+
+__Difficulty Level: Beginner__
 Tools to Use: Any Python IDE such as Jupyter Notebook, Azure Data Studio, Google Colaboratory or PyCharm. This project will guide you with working on Jupyter Notebook (Anaconda 3). Please click here and follow the link to download and install the tools.
-Aim: Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.
-Objectives: 
+
+__Aim:__ 
+Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.
+
+__Objectives:__ 
 1.	Understand the environment of the Jupyter Notebook on Anaconda 3.
 2.	Using different cells and comments in the notebook to mention explanations of your program and syntaxes.
 3.	Understanding basic data types and lists in Python.
@@ -14,8 +19,12 @@ Objectives:
 7.	Initializing the value of a variable
 8.	Creating loops asking the play the game multiple times unless the user enters Q
 9.	Using conditional operators to play the game with different options in different games.
-Dataset: This Project does not require any specific dataset. You can create your own variables and values to develop the game. In the list that you create, mention these elements must be there: Rock, Paper, and Scissors.
-Skills to Use (Mandatory): 
+
+__Dataset:__ 
+This Project does not require any specific dataset. You can create your own variables and values to develop the game. In the list that you create, mention these elements must be there: Rock, Paper, and Scissors.
+
+__Skills to Use (Mandatory):__
+
 1.	Using Python 3 in Jupyter Notebook
 2.	Using different types of cells – Code, Markdown and Heading
 3.	Adding comments in the code cells
@@ -28,11 +37,14 @@ Skills to Use (Mandatory):
 10.	Nested conditional statements in Python
 11.	Break statement
 12.	Concatenated print statements
-Skills to Use (Optional):
+
+__Skills to Use (Optional):__
+
 1.	Using For loop to let the user opt for how many rounds he/she wants to play the game.
 2.	Formatting text inputs from the user so that the program does not show inputs invalid if the inputs are not case-sensitive.
 3.	Use isdigit() to mark the input invalid if it is a digit.
 4.	Add two more elements in the game – Lizard and Spock. The game structure should look like:
+![sample](https://github.com/AINE-Projects/Project5/blob/master/sample.png)
  
 ## Resources: 
 1.	Understanding Jupyter Notebook and its interface
